@@ -60,7 +60,7 @@
 					<div class="col-md-12">
 						<div class="block">
               <img src="img/me.png"/>
-							<h1>Hai Long Chui</h1>
+							<h1>Hai Long Cui</h1>
 							<h2>email: 280945660@qq.com</h2>
 							<h2>phone: +8618686436263</h2>
 							<h2>address: 辽宁省丹东市振兴区新区SK国际大厦22-9-4</h2>
