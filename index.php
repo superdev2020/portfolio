@@ -211,7 +211,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="block">
-							<p>© 2018 Copyright. All rights reserved by HaiLong Chui.</p>
+							<p>© 2018 Copyright. All rights reserved by HaiLong Cui.</p>
 						</div>
 					</div>
 				</div>
