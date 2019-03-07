@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>AISE</title>
+	<title>Full stack developer</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- google fonts -->
@@ -34,7 +34,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<h1 class="navbar-brand">Sr. Web and Mobile Developer</h1>
+				<h1 class="navbar-brand">Full Stack Web and Mobile Developer</h1>
 			</div>
 
 			<!-- main nav -->
